@@ -252,8 +252,8 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 ## 📫 Let's Connect
 
-**Professional**: [🪪LinkedIn](https://www.linkedin.com/in/iamranjitsaha/) · [Email](mailto:ranjitofficial.connect@gmail.com)  
-**Portfolio**: [🛡️GitHub Pages](https://ranjit-saha.github.io)  
+**Professional**: [🪪LinkedIn](https://www.linkedin.com/in/iamranjitsaha/) [Email](mailto:ranjitofficial.connect@gmail.com)  
+**Portfolio**: [🛡️GitHub Pages](https://github.com/Ranjit-Saha)  
 **Daily Updates**: Follow [🔃geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for build logs
 
 ---

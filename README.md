@@ -173,12 +173,14 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 **Production ML Model for Health Insurance Pricing**
 - Deployed regression model for premium estimation
 - Feature engineering for demographic + health indicators
+- **Live Demo**: [Streamlit App](https://insurance-premium-predictor-ml.streamlit.app/) 
 - **Tech**: Python · Streamlit · ML Pipeline
 
 ### 📊 [Credit Risk Scoring System](https://github.com/Ranjit-Saha/ml-project-credit-risk-model)
 **Standardized Credit Scoring (300–900 Scale)**
 - Loan default probability estimation
 - Industry-standard credit score normalization
+- **Live Demo**: [Streamlit App](https://lauki-credit-risk-model.streamlit.app/) 
 - **Tech**: Python · scikit-learn · Streamlit
 
 ---

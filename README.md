@@ -13,10 +13,10 @@
 ![Email](https://img.shields.io/badge/Email-ranjitofficial.connect@gmail.com-D14836?style=flat&logo=gmail)](mailto:ranjitofficial.connect@gmail.com)
 
 check:
-![Email](https://img.shields.io/badge/Email-ranjitofficial.connect@gmail.com-D14836?style=flat&logo=gmail)](mailto:ranjitofficial.connect@gmail.com)
+![Email](https://img.shields.io/badge/Email-ranjitofficial.connect@gmail.com)](mailto:ranjitofficial.connect@gmail.com)
 
 </div>
-[Agri-Sentry](https://github.com/Ranjit-Saha/geoai-journey)
+ 
 ---
 
 ## 🛰️ What I'm Building

@@ -24,7 +24,7 @@
 Building **Agri-Sentry 360** — A production-ready geospatial intelligence platform that combines satellite imagery, deep learning, and agentic AI to solve real agricultural problems.
 
 **90-Day Public Build**: Follow my journey from foundation to deployment
-- 📅 Started: March 1, 2026
+- 📅 Started: March, 2026
 - 🎯 Target: Full-Stack GeoAI system deployed on AWS
 - 📊 Progress: [Daily Logs](https://github.com/Ranjit-Saha/geoai-journey)
 
@@ -252,9 +252,9 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 ## 📫 Let's Connect
 
-**Professional**: [LinkedIn](https://linkedin.com/in/ranjitsaha) · [Email](mailto:ranjitofficial.connect@gmail.com)  
-**Portfolio**: [GitHub Pages](https://ranjit-saha.github.io)  
-**Daily Updates**: Follow [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for build logs
+**Professional**: [🪪LinkedIn](https://www.linkedin.com/in/iamranjitsaha/) · [Email](mailto:ranjitofficial.connect@gmail.com)  
+**Portfolio**: [🛡️GitHub Pages](https://ranjit-saha.github.io)  
+**Daily Updates**: Follow [🔃geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for build logs
 
 ---
 
@@ -262,6 +262,6 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 **Building in Public · One Commit at a Time**
 
-*Last Updated: March 2, 2026*
+*Last Updated: March 14, 2026*
 
 </div>

@@ -41,7 +41,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 <table>
 <tr>
-<td width="33%" valign="top"> 
+<td width="33%" valign="top">
 
 **Pre-Season**
 ┌─────────────────────┐
@@ -71,7 +71,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 │         alerts      │
 └─────────────────────┘
 </td>
- <td width="33%" valign="top">
+<td width="33%" valign="top">
 
 **Post-Season**
 ┌─────────────────────┐

@@ -7,14 +7,10 @@
 
 [
 
-![GitHub](https://img.shields.io/badge/GitHub-Ranjit--Saha-181717?style=flat&logo=github)
-
-](https://github.com/Ranjit-Saha)
+![GitHub](https://img.shields.io/badge/GitHub-Ranjit--Saha-181717?style=flat&logo=github)](https://github.com/Ranjit-Saha)
 [
 
-![Email](https://img.shields.io/badge/Email-ranjitofficial.connect@gmail.com-D14836?style=flat&logo=gmail)
-
-](mailto:ranjitofficial.connect@gmail.com)
+![Email](https://img.shields.io/badge/Email-ranjitofficial.connect@gmail.com-D14836?style=flat&logo=gmail)](mailto:ranjitofficial.connect@gmail.com)
 
 </div>
 

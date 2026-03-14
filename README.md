@@ -37,9 +37,6 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 *   **Intelligence:** `LangGraph` agentic workflows • `RAG` advisory system
 
 ---
- 
-
----
 
 ## 🔧 Technical Stack
 

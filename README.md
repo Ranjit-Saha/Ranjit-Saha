@@ -22,7 +22,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 ---
 
-## 🛰️ What I Build
+## 🛰️ What I Build: Agri-Sentry 360 (In Development 🏗️)
 
 ### Agri-Sentry 360
 *Spatio-temporal agricultural intelligence platform*

@@ -1,19 +1,21 @@
+<div align="center">
+
 # Ranjit Saha
-## Full-Stack GeoAI Engineer | Building Production Systems for Agricultural Intelligence
-<div align='center'>
+### Full-Stack GeoAI Engineer | Building Production Systems for Agricultural Intelligence
+
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/ranjitsaha)
+](https://www.linkedin.com/in/iamranjitsaha/)
 [
 
-![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:ranjitofficial.connect@gmail.com)
 [
 
-![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome)
+![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ](https://ranjit-saha.github.io)
 
@@ -26,9 +28,9 @@
 Building **Agri-Sentry 360** — A production-ready geospatial intelligence platform that combines satellite imagery, deep learning, and agentic AI to solve real agricultural problems.
 
 **90-Day Public Build**: Follow my journey from foundation to deployment
-- 📅 Started: March, 2026
-- 🎯 Target: Full-Stack GeoAI system deployed on AWS
-- 📊 Progress: [Daily Logs](https://github.com/Ranjit-Saha/geoai-journey)
+- 📅 **Started**: March 2026
+- 🎯 **Target**: Full-Stack GeoAI system deployed on AWS
+- 📊 **Progress**: [Daily Logs](https://github.com/Ranjit-Saha/geoai-journey)
 
 ---
 
@@ -36,33 +38,65 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 ### Agri-Sentry 360
 *Spatio-temporal agricultural intelligence platform*
-```
-┌─ Pre-Season ────────────────────┐
-│ AI Crop Suitability Engine      │
-│ Tech: Random Forest, PostGIS    │
-│ Input: Soil + Climate + NDVI    │
-└──────────────────────────────────┘
-↓
-┌─ In-Season ─────────────────────┐
-│ SAR Flood Detection System      │
-│ Tech: Sentinel-1, PyTorch U-Net │
-│ Accuracy: 85%+ (Sen1Floods11)   │
-│ Output: Parametric alerts       │
-└──────────────────────────────────┘
-↓
-┌─ Post-Season ───────────────────┐
-│ Carbon MRV Verification         │
-│ Tech: NDVI Time-Series Analysis │
-│ Standard: dMRV-compatible       │
-└──────────────────────────────────┘
-**Architecture**: FastAPI + PostgreSQL/PostGIS + React + Mapbox + AWS  
-**Intelligence**: LangGraph agentic workflows + RAG advisory system
-```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Pre-Season**
+┌─────────────────────┐
+│ AI Crop Suitability │
+│ Engine              │
+├─────────────────────┤
+│ Tech: Random Forest │
+│       PostGIS       │
+├─────────────────────┤
+│ Input: Soil +       │
+│        Climate +    │
+│        NDVI         │
+└─────────────────────┘
+</td>
+<td width="33%" valign="top">
+
+**In-Season**
+┌─────────────────────┐
+│ SAR Flood Detection │
+│ System              │
+├─────────────────────┤
+│ Tech: Sentinel-1 +  │
+│       PyTorch U-Net │
+├─────────────────────┤
+│ Accuracy: 85%+      │
+│ Output: Parametric  │
+│         alerts      │
+└─────────────────────┘
+</td>
+<td width="33%" valign="top">
+
+**Post-Season**
+┌─────────────────────┐
+│ Carbon MRV          │
+│ Verification        │
+├─────────────────────┤
+│ Tech: NDVI Time-    │
+│       Series        │
+├─────────────────────┤
+│ Standard: dMRV-     │
+│           compatible│
+└─────────────────────┘
+</td>
+</tr>
+</table>
+
+**Architecture**: FastAPI · PostgreSQL/PostGIS · React · Mapbox · AWS  
+**Intelligence**: LangGraph agentic workflows · RAG advisory system
+
 ---
 
 ## 🔧 Technical Stack
 
 ### Earth Observation & Geospatial
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -95,6 +129,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 ### AI & Machine Learning
 
 
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 
@@ -113,6 +148,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 **Models**: U-Net (Semantic Segmentation) · Random Forest · Foundation Models
 
 ### Backend & Infrastructure
+
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -137,6 +173,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 **Stack**: Celery + Redis · ONNX Runtime · Prometheus + Grafana
 
 ### Frontend
+
 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -164,26 +201,33 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 - **Tech**: Sentinel-1 SAR · PyTorch U-Net · PostGIS · FastAPI · React
 - **Status**: 🔴 Active development (Day 2/90)
 
-### 🏔️ [Aravalli Forensic Audit](https://aravalli-forensic-audit-2025.streamlit.app/)
+### 🏔️ [Aravalli Forensic Audit](https://github.com/Ranjit-Saha/aravalli-forensic-audit)
 **Geospatial Audit of Illegal Mining Activities**
-- Analyzed 34,000+ hectares using JAXA ALOS + Sentinel-2
+- Analyzed 34,000+ hectares using JAXA ALOS + Sentinel-2 imagery
 - Modeled ecological compliance risk across multiple land parcels
 - **Live Demo**: [Streamlit App](https://aravalli-forensic-audit-2025.streamlit.app/)
-- **Tech**: GDAL · Remote Sensing · Python
+- **Tech**: GDAL · Remote Sensing · Python · Geospatial Analysis
 
 ### 💰 [Insurance Premium Predictor](https://github.com/Ranjit-Saha/insurance-premium-predictor-ml)
 **Production ML Model for Health Insurance Pricing**
 - Deployed regression model for premium estimation
 - Feature engineering for demographic + health indicators
-- **Live Demo**: [Streamlit App](https://insurance-premium-predictor-ml.streamlit.app/) 
-- **Tech**: Python · Streamlit · ML Pipeline
+- **Live Demo**: [Streamlit App](https://insurance-premium-predictor-ml.streamlit.app/)
+- **Tech**: Python · scikit-learn · Streamlit · ML Pipeline
 
 ### 📊 [Credit Risk Scoring System](https://github.com/Ranjit-Saha/ml-project-credit-risk-model)
 **Standardized Credit Scoring (300–900 Scale)**
-- Loan default probability estimation
-- Industry-standard credit score normalization
-- **Live Demo**: [Streamlit App](https://lauki-credit-risk-model.streamlit.app/) 
-- **Tech**: Python · scikit-learn · Streamlit
+- Loan default probability estimation with industry-standard scoring
+- Comprehensive credit risk assessment model
+- **Live Demo**: [Streamlit App](https://lauki-credit-risk-model.streamlit.app/)
+- **Tech**: Python · scikit-learn · Streamlit · Risk Analytics
+
+### 💳 [FinFlow Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)
+**Full-Stack Personal Finance Management System**
+- Comprehensive expense tracking and budget management
+- Real-time analytics and spending insights
+- Category-based expense organization
+- **Tech**: FastAPI · SQLite · Streamlit · Data Visualization
 
 ---
 
@@ -214,10 +258,10 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 - 💻 Data Science & GenAI Bootcamp (Codebasics)
 
 **Domain Expertise**:
-- Remote Sensing & Satellite Imagery
-- Spatial Data Engineering
-- Geospatial Machine Learning
-- Full-Stack Web Development
+- Remote Sensing & Satellite Imagery Analysis
+- Spatial Data Engineering & Architecture
+- Geospatial Machine Learning Systems
+- Full-Stack Development & Cloud Deployment
 
 ---
 
@@ -243,29 +287,54 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 ## 🎯 What I'm Looking For
 
-**Roles**: GeoAI Engineer · Geospatial Data Scientist · Earth Observation ML Engineer  
-**Industries**: AgTech · Climate Tech · Satellite Analytics · Insurance Risk Modeling  
-**Companies**: SatSure · Pixxel · Planet Labs · Descartes Labs · Esri
+**Target Roles**: 
+- GeoAI Engineer
+- Geospatial Data Scientist
+- Earth Observation ML Engineer
+- Spatial Systems Engineer
+
+**Industries**: 
+- AgTech · Climate Tech · Satellite Analytics · Disaster Management · Insurance Risk Modeling
 
 **Key Differentiators**:
-- Build production systems, not just notebooks
-- Understand satellite physics + ML + backend engineering
-- Deploy end-to-end: data pipeline → model → API → dashboard
-- Work in public with daily commits and documented learnings
+- ✅ Build production systems, not just notebooks
+- ✅ Deep understanding: Satellite physics + ML + Backend engineering
+- ✅ End-to-end deployment: Data pipeline → Model → API → Dashboard
+- ✅ Public learning with daily commits and documented progress
 
 ---
 
 ## 📫 Let's Connect
 
-**Professional**: [🪪LinkedIn](https://www.linkedin.com/in/iamranjitsaha/)  
-**Portfolio**: [🛡️GitHub Pages](https://github.com/Ranjit-Saha)  
-**Daily Updates**: Follow [🔃geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for build logs
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/iamranjitsaha/)
+[
+
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)
+
+](mailto:ranjitofficial.connect@gmail.com)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)
+
+](https://ranjit-saha.github.io)
+
+**Daily Build Updates**: Follow [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for daily logs and progress
 
 ---
 
 <div align="center">
 
 **Building in Public · One Commit at a Time**
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ranjit-Saha&color=blue&style=flat)
+
+
 
 *Last Updated: March 14, 2026*
 

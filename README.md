@@ -174,7 +174,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 - Comprehensive expense tracking and budget management
 - Real-time analytics and spending insights
 - Category-based expense organization
-- **Tech**: FastAPI · SQLite · Streamlit · Data Visualization
+- **Tech**: Python · FastAPI · MySQL · Data Visualization
 
 ---
 

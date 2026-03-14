@@ -1,6 +1,6 @@
 # Ranjit Saha
 ## Full-Stack GeoAI Engineer | Building Production Systems for Agricultural Intelligence
-<div align='center'>
+<div>
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)

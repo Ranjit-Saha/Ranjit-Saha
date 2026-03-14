@@ -28,52 +28,14 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 *Spatio-temporal agricultural intelligence platform*
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  
+| 🌱 **Pre-Season** | 🛰️ **In-Season** | 📊 **Post-Season** |
+| :--- | :--- | :--- |
+| **AI Crop Suitability Engine** | **SAR Flood Detection System** | **Carbon MRV Verification** |
+| **Tech:** Random Forest, PostGIS | **Tech:** Sentinel-1, PyTorch U-Net | **Tech:** NDVI Time-Series |
+| **Input:** Soil, Climate, NDVI | **Accuracy:** 85%+ | **Standard:** dMRV-compatible |
+| | **Output:** Parametric alerts | |
 
-**Pre-Season**
-┌─────────────────────┐
-│ AI Crop Suitability │
-│ Engine              │
-├─────────────────────┤
-│ Tech: Random Forest │
-│       PostGIS       │
-├─────────────────────┤
-│ Input: Soil +       │
-│        Climate +    │
-│        NDVI         │
-└─────────────────────┘
-</td>
-<td width="33%" valign="top">
-
-**In-Season**
-┌─────────────────────┐
-│ SAR Flood Detection │
-│ System              │
-├─────────────────────┤
-│ Tech: Sentinel-1 +  │
-│       PyTorch U-Net │
-├─────────────────────┤
-│ Accuracy: 85%+      │
-│ Output: Parametric  │
-│         alerts      │
-└─────────────────────┘
-</td>
-<td width="33%" valign="top">
-
-**Post-Season**
-┌─────────────────────┐
-│ Carbon MRV          │
-│ Verification        │
-├─────────────────────┤
-│ Tech: NDVI Time-    │
-│       Series        │
-├─────────────────────┤
-│ Standard: dMRV-     │
-│           compatible│
-└─────────────────────┘
-</td>
-</tr>
 </table>
 
 

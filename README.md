@@ -76,6 +76,15 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 </tr>
 </table>
 
+
+| 🌱 **Pre-Season** | 🛰️ **In-Season** | 📊 **Post-Season** |
+| :--- | :--- | :--- |
+| **AI Crop Suitability Engine** | **SAR Flood Detection System** | **Carbon MRV Verification** |
+| **Tech:** Random Forest, PostGIS | **Tech:** Sentinel-1, PyTorch U-Net | **Tech:** NDVI Time-Series |
+| **Input:** Soil, Climate, NDVI | **Accuracy:** 85%+ | **Standard:** dMRV-compatible |
+| | **Output:** Parametric alerts | |
+
+
 **Architecture**: FastAPI · PostgreSQL/PostGIS · React · Mapbox · AWS  
 **Intelligence**: LangGraph agentic workflows · RAG advisory system
 

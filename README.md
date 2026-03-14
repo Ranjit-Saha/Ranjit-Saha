@@ -59,8 +59,11 @@ FastAPI + PostGIS + React → Full-stack web application
 | [Agri-Sentry](https://github.com/Ranjit-Saha/geoai-journey) | Flood detection + crop intelligence from satellite data | PyTorch · PostGIS · FastAPI |
 | [Aravalli Forensic Audit](https://github.com/Ranjit-Saha/aravalli-forensic-audit) | Geospatial audit of illegal mining using JAXA ALOS + Sentinel-2 | GIS · Remote Sensing |
 | [Insurance Premium Predictor](https://github.com/Ranjit-Saha/insurance-premium-predictor-ml) | ML model for health insurance premium prediction | Python · Streamlit |
+| [ml-project-credit-risk-model](https://github.com/Ranjit-Saha/ml-project-credit-risk-model)) | ML model for predicting loan default probability and generating standardized credit scores | Python · Streamlit |
 | [FinFlow Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker) | Full-stack expense tracking system | FastAPI · Streamlit |
 
+
+  
 ---
 
 ## 📈 Current Focus — 90-Day GeoAI Build

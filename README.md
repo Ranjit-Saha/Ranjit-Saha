@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ranjit-saha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Ranjit-Saha)
 
 </div>
 

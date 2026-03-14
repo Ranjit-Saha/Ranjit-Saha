@@ -85,7 +85,6 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 │           compatible│
 └─────────────────────┘
 </td>
-<td width="33%" valign="top">
 </tr>
 </table>
 

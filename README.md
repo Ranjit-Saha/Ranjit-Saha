@@ -33,8 +33,8 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 ## 🛰️ What I Build
 
 ### Agri-Sentry 360
-
 *Spatio-temporal agricultural intelligence platform*
+````
 ┌─ Pre-Season ────────────────────┐
 │ AI Crop Suitability Engine      │
 │ Tech: Random Forest, PostGIS    │
@@ -55,7 +55,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 └──────────────────────────────────┘
 **Architecture**: FastAPI + PostgreSQL/PostGIS + React + Mapbox + AWS  
 **Intelligence**: LangGraph agentic workflows + RAG advisory system
-
+````
 ---
 
 ## 🔧 Technical Stack

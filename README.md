@@ -253,7 +253,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ranjit-saha.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/Ranjit-Saha)
 
 **Daily Build Updates**: Follow [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for daily logs and progress
 

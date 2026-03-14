@@ -56,7 +56,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 │        NDVI         │
 └─────────────────────┘
 </td>
- 
+<td width="33%" valign="top">
 
 **In-Season**
 ┌─────────────────────┐
@@ -71,7 +71,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 │         alerts      │
 └─────────────────────┘
 </td>
- 
+ <td width="33%" valign="top">
 
 **Post-Season**
 ┌─────────────────────┐
@@ -85,6 +85,7 @@ Building **Agri-Sentry 360** — A production-ready geospatial intelligence plat
 │           compatible│
 └─────────────────────┘
 </td>
+<td width="33%" valign="top">
 </tr>
 </table>
 

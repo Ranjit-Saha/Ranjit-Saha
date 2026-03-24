@@ -206,6 +206,17 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 | **Deep Learning** | U-Net + TorchGeo + SAM | Days 31-60 | ⏳ Upcoming |
 | **Production** | Agents + Full-Stack + AWS | Days 61-90 | ⏳ Upcoming |
 
+| Week | Focus | Status |
+|------|-------|--------|
+| 1 | Geospatial Foundations | 🔄 In Progress |
+| 2 | SAR Physics & Flood Detection | ⏳ Upcoming |
+| 3 | Historical Flood Calendar | ⏳ Upcoming |
+| 4 | Crop Suitability & API | ⏳ Upcoming |
+| 5-6 | PyTorch U-Net Training | ⏳ Upcoming |
+| 7-8 | Production Backend | ⏳ Upcoming |
+| 9-10 | Bengali Voice Chatbot | ⏳ Upcoming |
+| 11-13 | Full-Stack Deploy + Video | ⏳ Upcoming |
+
 **Current Week** (Week 1):
 - ✅ Day 1: Satellite data fundamentals + NDVI calculator
 - 🔄 Day 2: Coordinate systems + PostGIS setup

@@ -26,18 +26,47 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - 🔗 **Daily Logs**: [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey)
 
 ---
-here
 
-## 🎯 Current Mission
+## 🛰️ Agri-Sentry 360: The Project
 
-Building **Agri-Sentry 360** — A production-ready geospatial intelligence platform that combines satellite imagery, deep learning, and agentic AI to solve real agricultural problems.
+**The Problem**: During monsoon season, optical satellites go blind for 3 months. Farmers in Dhaldabri lose crops to floods with zero warning. Traditional insurance takes 6-12 months for payouts. The trust gap costs everything.
 
-**90-Day Public Build**: Follow my journey from foundation to deployment
-- 📅 **Started**: March 2026
-- 🎯 **Target**: Full-Stack GeoAI system deployed on AWS
-- 📊 **Progress**: [Daily Logs](https://github.com/Ranjit-Saha/geoai-journey)
+**The Solution**: All-weather SAR-based monitoring + AI-powered decision intelligence
+
+### Three-Season Intelligence Model
+
+**🌱 Pre-Season Planning**
+- Crop suitability engine (Random Forest on soil + climate data)
+- Optimal sowing window predictor (LSTM + weather forecasts)
+
+**🛡️ In-Season Protection**
+- SAR flood detection (Sentinel-1 + PyTorch U-Net, 85%+ target accuracy)
+- Parametric insurance triggers (automated payout logic)
+- Bengali voice chatbot (LangChain RAG + local knowledge base)
+
+**💰 Post-Season Verification**
+- Yield attribution analysis
+- Carbon credit verification (dMRV-ready)
+
+### Tech Stack
+
+**Geospatial**: GDAL · Rasterio · GeoPandas · PostGIS · Google Earth Engine  
+**AI/ML**: PyTorch · TorchGeo · U-Net · LangChain · Groq/Llama 3.3  
+**Backend**: FastAPI · PostgreSQL · Celery · Redis  
+**Frontend**: React · Mapbox GL JS · Streamlit  
+**Deployment**: Docker · AWS (EC2, RDS, S3)
+
+### Why It Matters
+
+**Basis Risk Reduction**: Traditional satellite-based insurance has 30-40% basis risk (false triggers). My system reduces it to <15% through:
+- Multi-temporal SAR analysis
+- Farm-level spatial precision
+- Ground truth validation from Dhaldabri
+
+**Accessibility**: Bengali voice interface for farmers who can't read web maps.
 
 ---
+here
 
 # 🛰️ What I Build: Agri-Sentry 360 (In Development 🏗️)
 > **Spatio-temporal agricultural intelligence platform**

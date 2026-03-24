@@ -246,45 +246,6 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjit-Saha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-
-
-
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranjit-Saha&theme=tokyonight&hide_border=true)
-
-
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
-
-**Target Roles**: 
-- GeoAI Engineer
-- Geospatial Data Scientist
-- Earth Observation ML Engineer
-- Spatial Systems Engineer
-
-**Industries**: 
-- AgTech · Climate Tech · Satellite Analytics · Disaster Management · Insurance Risk Modeling
-
-**Key Differentiators**:
-- ✅ Build production systems, not just notebooks
-- ✅ Deep understanding: Satellite physics + ML + Backend engineering
-- ✅ End-to-end deployment: Data pipeline → Model → API → Dashboard
-- ✅ Public learning with daily commits and documented progress
-
----
-
 
 ## 📊 Activity
 

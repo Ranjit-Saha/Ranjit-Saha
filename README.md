@@ -200,12 +200,6 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 ## 📈 90-Day Build Progress
 
-| Phase | Focus | Timeline | Status |
-|-------|-------|----------|--------|
-| **Foundation** | Spatial DB + Data Pipelines | Days 1-30 | 🔄 In Progress |
-| **Deep Learning** | U-Net + TorchGeo + SAM | Days 31-60 | ⏳ Upcoming |
-| **Production** | Agents + Full-Stack + AWS | Days 61-90 | ⏳ Upcoming |
-
 | Week | Focus | Status |
 |------|-------|--------|
 | 1 | Geospatial Foundations | 🔄 In Progress |
@@ -225,6 +219,15 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - ⏳ Day 5: ETL pipeline automation
 - ⏳ Day 6: Web app deployment
 - ⏳ Day 7: Week review + portfolio page
+
+---
+## 🔧 Skills in Development
+
+**Earth Observation**: Sentinel-1 SAR · Sentinel-2 · NDVI · Backscatter Analysis  
+**Spatial Computing**: PostGIS · Spatial Indexing · CRS Transformations  
+**Deep Learning**: U-Net Segmentation · Model Optimization · TorchGeo  
+**Agentic AI**: LangChain · RAG · Voice Processing (Whisper)  
+**Full-Stack**: FastAPI · React · Mapbox · AWS Deployment
 
 ---
 
@@ -303,5 +306,60 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 
 *Last Updated: March 14, 2026*
+
+</div>
+
+
+
+here dwn
+## 📊 Activity
+
+<div align="center">
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ranjit-Saha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+
+
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranjit-Saha&theme=tokyonight&hide_border=true)
+
+
+
+</div>
+
+---
+
+## 🎯 Target
+
+**Role**: GeoAI Engineer · Geospatial Data Scientist · Climate Tech Engineer  
+**Industries**: AgTech · Climate Adaptation · Parametric Insurance · Earth Observation
+
+**What I Bring**: SAR expertise · Spatial ML · Full-stack deployment · Domain fluency (Basis Risk, dMRV) · Ground truth validation
+
+---
+
+## 📫 Connect
+
+**Daily Updates**: [90-Day Journey](https://github.com/Ranjit-Saha/geoai-journey)  
+**LinkedIn**: [Professional Profile](https://www.linkedin.com/in/iamranjitsaha/)  
+**Email**: ranjitofficial.connect@gmail.com
+
+---
+
+<div align="center">
+
+**Building the Future of Climate-Resilient Agriculture**  
+*One Satellite Image at a Time*
+
+
+
+![Visitors](https://komarev.com/ghpvc/?username=Ranjit-Saha&color=blue&style=flat)
+
+
+
+*Last Updated: March 14, 2026 · Day 2/90*
 
 </div>

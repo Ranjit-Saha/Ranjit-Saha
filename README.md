@@ -173,7 +173,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - Analyzed 34,000+ hectares using JAXA ALOS + Sentinel-2 imagery
 - Modeled ecological compliance risk across multiple land parcels
 - **Live Demo**: [Streamlit App](https://aravalli-forensic-audit-2025.streamlit.app/)
-- **Tech**: GDAL · Remote Sensing · Python · Geospatial Analysis
+- **Tech**: GEE · Remote Sensing · Python · Geospatial Analysis
 
 ### 💰 [Insurance Premium Predictor](https://github.com/Ranjit-Saha/insurance-premium-predictor-ml)
 **Production ML Model for Health Insurance Pricing**

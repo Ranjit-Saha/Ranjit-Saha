@@ -14,6 +14,19 @@
 
 ---
  
+## 🌍 Mission
+
+Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence platform for the Terai belt of West Bengal, using Sentinel-1 SAR, deep learning, and agentic AI.
+
+**90-Day Public Build Journey**:
+- 📅 **Started**: March 1, 2026
+- 🎯 **Goal**: Full-Stack GeoAI Engineer @ SatSure, Pixxel, or Climate Tech
+- 📍 **Focus**: Dhaldabri, Cooch Behar (ground truth validation)
+- 📊 **Progress**: Day 2/90
+- 🔗 **Daily Logs**: [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey)
+
+---
+here
 
 ## 🎯 Current Mission
 

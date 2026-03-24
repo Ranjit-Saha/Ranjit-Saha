@@ -1,3 +1,33 @@
+
+<div align="center">
+
+# Ranjit Saha
+### Planetary Physician | Full-Stack GeoAI Engineer
+
+*"The Earth is my Patient. Satellites are my X-Ray. GenAI is my Diagnosis."*
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/iamranjitsaha/)
+[
+
+![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:ranjitofficial.connect@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Ranjit-Saha)
+
+</div>
+
+---
+
+here 
+
 <div align="center">
 
 # Ranjit Saha

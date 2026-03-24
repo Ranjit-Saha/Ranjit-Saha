@@ -285,33 +285,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 ---
 
-## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/Ranjit-Saha)
-
-**Daily Build Updates**: Follow [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for daily logs and progress
-
----
-
-<div align="center">
-
-**Building in Public · One Commit at a Time**
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ranjit-Saha&color=blue&style=flat)
-
-
-
-*Last Updated: March 14, 2026*
-
-</div>
-
-
-
-here dwn
 ## 📊 Activity
 
 <div align="center">
@@ -338,6 +312,15 @@ here dwn
 **Industries**: AgTech · Climate Adaptation · Parametric Insurance · Earth Observation
 
 **What I Bring**: SAR expertise · Spatial ML · Full-stack deployment · Domain fluency (Basis Risk, dMRV) · Ground truth validation
+
+---
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/Ranjit-Saha)
+
+**Daily Build Updates**: Follow [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey) for daily logs and progress
 
 ---
 

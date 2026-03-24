@@ -341,13 +341,6 @@ here dwn
 
 ---
 
-## 📫 Connect
-
-**Daily Updates**: [90-Day Journey](https://github.com/Ranjit-Saha/geoai-journey)  
-**LinkedIn**: [Professional Profile](https://www.linkedin.com/in/iamranjitsaha/)  
-**Email**: ranjitofficial.connect@gmail.com
-
----
 
 <div align="center">
 

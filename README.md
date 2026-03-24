@@ -48,13 +48,6 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - Yield attribution analysis
 - Carbon credit verification (dMRV-ready)
 
-### Tech Stack
-
-**Geospatial**: GDAL · Rasterio · GeoPandas · PostGIS · Google Earth Engine  
-**AI/ML**: PyTorch · TorchGeo · U-Net · LangChain · Groq/Llama 3.3  
-**Backend**: FastAPI · PostgreSQL · Celery · Redis  
-**Frontend**: React · Mapbox GL JS · Streamlit  
-**Deployment**: Docker · AWS (EC2, RDS, S3)
 
 ### Why It Matters
 
@@ -64,23 +57,6 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - Ground truth validation from Dhaldabri
 
 **Accessibility**: Bengali voice interface for farmers who can't read web maps.
-
----
-here
-
-# 🛰️ What I Build: Agri-Sentry 360 (In Development 🏗️)
-> **Spatio-temporal agricultural intelligence platform**
-
-
-| 🌱 **Pre-Season** | 🛰️ **In-Season** | 📊 **Post-Season** |
-| :--- | :--- | :--- |
-| **AI Crop Recommendation Engine** | **SAR Flood Detection System** | **Carbon MRV Verification** |
-| **Tech:** Random Forest, PostGIS | **Tech:** Sentinel-1, PyTorch U-Net | **Tech:** NDVI Time-Series |
-| **Input:** Soil, Climate, NDVI | **Accuracy:** 85%+ | **Standard:** dMRV-compatible |
-| | **Output:** Parametric alerts | |
-
-*   **Architecture:** `FastAPI` • `PostgreSQL/PostGIS` • `React` • `Mapbox` • `AWS`
-*   **Intelligence:** `LangGraph` agentic workflows • `RAG` advisory system
 
 ---
 

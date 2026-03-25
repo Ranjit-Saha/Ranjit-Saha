@@ -214,8 +214,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 **Current Week** (Week 1):
 - ✅ Day 1: Satellite data fundamentals + NDVI calculator
  
-📸
-![Day1 Output: NDVI Analysis](https://github.com/Ranjit-Saha/geoai-journey/blob/main/day01-first-satellite-analysis/day01.md)
+>📸![Day1 Output: NDVI Analysis](https://github.com/Ranjit-Saha/geoai-journey/blob/main/day01-first-satellite-analysis/day01.md)
 
 - 🔄 Day 2: Coordinate systems + PostGIS setup
 - ⏳ Day 3: GeoPandas spatial operations

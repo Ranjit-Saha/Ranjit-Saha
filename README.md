@@ -205,7 +205,8 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 | Deploy | Full-Stack Deploy + Video | ⏳ Upcoming |
 
 **Current Week** (Week 1):
-![✅ Day1: Satellite data fundamentals + NDVI calculator 📸](https://github.com/Ranjit-Saha/geoai-journey/blob/main/day01-first-satellite-analysis/day01.md)
+
+![✅ Day1: Satellite data fundamentals + NDVI calculator](https://github.com/Ranjit-Saha/geoai-journey/blob/main/day01-first-satellite-analysis/day01.md)
 
 - 🔄 Day 2: Coordinate systems + PostGIS setup
 - ⏳ Day 3: GeoPandas spatial operations
@@ -233,10 +234,12 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - 💻 Data Science & GenAI Bootcamp (Codebasics)
 
 **Domain Expertise**:
+- Land, Ocean and Forestry 
 - Remote Sensing & Satellite Imagery Analysis
 - Spatial Data Engineering & Architecture
 - Geospatial Machine Learning Systems
 - Full-Stack Development & Cloud Deployment
+
 
 ---
 

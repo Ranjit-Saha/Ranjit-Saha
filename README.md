@@ -18,13 +18,6 @@
 
 Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence platform for the Terai belt of West Bengal, using Sentinel-1 SAR, deep learning, and agentic AI.
 
-**90-Day Public Build Journey**:
-- 📅 **Started**: March 1, 2026
-- 🎯 **Goal**: Full-Stack GeoAI Engineer @ SatSure, Pixxel, or Climate Tech
-- 📍 **Focus**: Dhaldabri, Cooch Behar (ground truth validation)
-- 📊 **Progress**: Day 2/90
-- 🔗 **Daily Logs**: [geoai-journey](https://github.com/Ranjit-Saha/geoai-journey)
-
 ---
 
 ## 🛰️ Agri-Sentry 360: The Project
@@ -200,16 +193,16 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 ## 📈 90-Day Build Progress
 
-| Week | Focus | Status |
+| Focus Area | Objective | Status |
 |------|-------|--------|
-| 1 | Geospatial Foundations | 🔄 In Progress |
-| 2 | SAR Physics & Flood Detection | ⏳ Upcoming |
-| 3 | Historical Flood Calendar | ⏳ Upcoming |
-| 4 | Crop Suitability & API | ⏳ Upcoming |
-| 5-6 | PyTorch U-Net Training | ⏳ Upcoming |
-| 7-8 | Production Backend | ⏳ Upcoming |
-| 9-10 | Bengali Voice Chatbot | ⏳ Upcoming |
-| 11-13 | Full-Stack Deploy + Video | ⏳ Upcoming |
+| Foundations | Geospatial Foundations & Data Acquisition | 🔄 In Progress |
+| Analysis | SAR Physics & Flood Detection Algorithms | ⏳ Upcoming |
+| Data | Historical Flood Calendar Development | ⏳ Upcoming |
+| Logic | Crop Suitability & API Development | ⏳ Upcoming |
+| AI | PyTorch U-Net Model Training | ⏳ Upcoming |
+| Backend | Production Backend & Database | ⏳ Upcoming |
+| AI | Bengali Voice Chatbot Integration | ⏳ Upcoming |
+| Deploy | Full-Stack Deploy + Video | ⏳ Upcoming |
 
 **Current Week** (Week 1):
 ![✅ Day1: Satellite data fundamentals + NDVI calculator 📸](https://github.com/Ranjit-Saha/geoai-journey/blob/main/day01-first-satellite-analysis/day01.md)

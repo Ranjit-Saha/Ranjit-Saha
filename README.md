@@ -154,7 +154,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 
 ## 📁 Featured Projects
 
-### 🌊 [Agri-Sentry](https://github.com/Ranjit-Saha/agri-sentry)
+### 🌊 [Agri-Sentry360](https://github.com/Ranjit-Saha/agri-sentry)
 **Production GeoAI Platform for Agricultural Intelligence**
 - **Problem**: Farmers lose crops to floods with no advance warning
 - **Solution**: Automated SAR-based flood detection + parametric insurance triggers

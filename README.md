@@ -209,7 +209,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 - ✅ [Day1: Satellite data fundamentals + NDVI calculator](https://github.com/Ranjit-Saha/geoai-journey/tree/main/day01-first-satellite-analysis)
 
 - ✅ [Day 2: Coordinate systems + PostGIS setup](https://github.com/Ranjit-Saha/geoai-journey/tree/main/day02-coordinate-systems)
-- 🔄 Day 3: GeoPandas spatial operations
+- 🔄 [Day 3: GeoPandas spatial operations](#)
 - ⏳ Day 4: Rasterio + Sentinel processing
 - ⏳ Day 5: ETL pipeline automation
 - ⏳ Day 6: Web app deployment

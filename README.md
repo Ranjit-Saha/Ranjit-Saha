@@ -204,13 +204,13 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 | AI | Bengali Voice Chatbot Integration | ⏳ Upcoming |
 | Deploy | Full-Stack Deploy + Video | ⏳ Upcoming |
 
-**Current Week** (Week 1):
+**Current Events:**
 
 - ✅ [Day1: Satellite data fundamentals + NDVI calculator](https://github.com/Ranjit-Saha/geoai-journey/tree/main/day01-first-satellite-analysis)
 
 - ✅ [Day 2: Coordinate systems + PostGIS setup](https://github.com/Ranjit-Saha/geoai-journey/tree/main/day02-coordinate-systems)
-- 🔄 [Day 3: GeoPandas spatial operations](#)
-- ⏳ Day 4: Rasterio + Sentinel processing
+- ✅ [Day 3: GeoPandas+postGIS Spatial Operations](https://github.com/Ranjit-Saha/geoai-journey/tree/main/day03-geopandas)
+- 🔄 [Day 4: Rasterio + Sentinel processing](#)
 - ⏳ Day 5: ETL pipeline automation
 - ⏳ Day 6: Web app deployment
 - ⏳ Day 7: Week review + portfolio page

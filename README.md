@@ -222,7 +222,7 @@ Building **Agri-Sentry 360** — A climate-resilient agricultural intelligence p
 **Spatial Computing**: PostGIS · Spatial Indexing · CRS Transformations  
 **Deep Learning**: U-Net Segmentation · Model Optimization · TorchGeo  
 **Agentic AI**: LangChain · RAG · Voice Processing (Whisper)  
-**Full-Stack**: FastAPI · React · Mapbox · AWS Deployment
+**Full-Stack**: FastAPI · React ·Leaflet.js · AWS Deployment
 
 ---
 

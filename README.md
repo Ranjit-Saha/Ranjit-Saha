@@ -26,7 +26,7 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 * **Infrastructure:** PyTorch · ResNet50 (Transfer Learning) · Computer Vision
 
 ### 🛰️ [Agri-Sentry-core](https://github.com/Ranjit-Saha/agri-sentry-core)
-* **Objective:** A climate-resilient spatial backend bridging the $6B parametric insurance trust gap. It utilizes C-Band SAR to monitor crop health and detect flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
+* **Objective:** A climate-resilient spatial backend bridging the $6B parametric insurance trust gap. It utilizes C-Band SAR to detect flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
 * **Infrastructure:** PostGIS · Google Earth Engine API · Sentinel-1 · GeoPandas · Vectorized Processing
 
 ### 🏔️ [Aravalli Forensic Audit](https://github.com/Ranjit-Saha/aravalli-forensic-audit)
@@ -36,10 +36,10 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 ---
 
 ## ⚡ Infrastructure & Pipeline Capabilities
-* **Cloud-Native Ingestion:** Designing API-driven handshakes with Earth Engine and STAC to extract, filter, and process multi-year satellite backscatter histories.
-* **High-Performance Spatial Computations:** Engineering NumPy-vectorized raster processing pipelines to achieve massive execution speedups (e.g., 61x faster than standard iterators).
-* **Secure Spatial Vaults:** Architecting idempotent **PostGIS** databases with Row-Level Security (RLS) for multi-tenant data isolation and GiST spatial indexing.
-* **Basis Risk Reduction:** Building automated geometry purification engines (GeoPandas/Shapely) to untangle self-intersecting polygons and apply pixel-pure inner buffers.
+* **Cloud-Native Ingestion:** Designed API-driven handshakes with Earth Engine and STAC to extract, filter, and process multi-year satellite backscatter histories.
+* **High-Performance Spatial Computations:** Engineered NumPy-vectorized raster processing pipelines to achieve massive execution speedups (e.g., 61x faster than standard iterators).
+* **Secure Spatial Vaults:** Architected idempotent **PostGIS** databases with Row-Level Security (RLS) for multi-tenant data isolation and GiST spatial indexing.
+* **Basis Risk Reduction:** Built automated geometry purification engines (GeoPandas/Shapely) to untangle self-intersecting polygons and apply pixel-pure inner buffers.
 
 ---
 

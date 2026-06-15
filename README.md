@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ranjit Saha
-### Planetary Physician | Spatial Data & GeoAI Engineer
+### Planetary Physician | Spatial Data & Geospatial AI Engineer.
 
 *"The Earth is my Patient. Satellites are my X-Ray. AI is my Diagnosis."*
 

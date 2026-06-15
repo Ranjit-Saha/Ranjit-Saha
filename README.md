@@ -23,7 +23,7 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 
 ### 🚗 [Vehicle Damage Detection](https://github.com/Ranjit-Saha/vehicle-damage-detection)
 * **Objective:** Developed a robust Computer Vision pipeline to automate Car damage assessment, streamlining insurance claim processing through real-time feature extraction.
-* **Infrastructure:** PyTorch · ResNet50 (Transfer Learning) · Computer Vision
+* **Infrastructure:** PyTorch · ResNet50 (Transfer Learning) · CNN . Fast API Asynchronous REST API
 
 ### 🛰️ [Agri-Sentry-core](https://github.com/Ranjit-Saha/agri-sentry-core)
 * **Objective:** A climate-resilient spatial backend bridging the $6B parametric insurance trust gap. It utilizes C-Band SAR to detect flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.

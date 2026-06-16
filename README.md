@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ranjit Saha
-### Planetary Physician | Spatial Data & Geospatial AI Engineer.
+### Planetary Physician | Spatial Data & Geospatial AI Engineer
 
 *"The Earth is my Patient. Satellites are my X-Ray. AI is my Diagnosis."*
 
@@ -21,16 +21,16 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 
 ## 📁 Flagship Projects
 
-### 🚗 [Vehicle Damage Detection](https://github.com/Ranjit-Saha/vehicle-damage-detection)
-* **Objective:** Developed a robust Computer Vision pipeline to automate Car damage assessment, streamlining insurance claim processing through real-time feature extraction.
-* **Infrastructure:** PyTorch · ResNet50 (Transfer Learning) · CNN . Fast API Asynchronous REST API
+### 🚗 [Vehicle Damage Microservice](https://github.com/Ranjit-Saha/vehicle-damage-detection-microservice)
+* **Objective:** Developed a distributed Computer Vision microservice to automate car damage assessment, streamlining insurance claim processing through real-time feature extraction.
+* **Infrastructure:** PyTorch · ResNet50 · FastAPI Asynchronous Engine · Streamlit UI · Docker Containerization · Zero-Disk I/O Streaming
 
-### 🛰️ [Agri-Sentry-core](https://github.com/Ranjit-Saha/agri-sentry-core)
+### 🛰️ [Agri-Sentry](https://github.com/Ranjit-Saha/agri-sentry-core)
 * **Objective:** A climate-resilient spatial backend bridging the $6B parametric insurance trust gap. It utilizes C-Band SAR to detect flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
 * **Infrastructure:** PostGIS · Google Earth Engine API · Sentinel-1 · GeoPandas · Vectorized Processing
 
 ### 🏔️ [Aravalli Forensic Audit](https://github.com/Ranjit-Saha/aravalli-forensic-audit)
-* **Objective:** Geospatial forensic system built to quantify environmental compliance and mining risks over a 34,000+ hectare region.
+* **Objective:** Geospatial forensic system built to quantify environmental compliance and ecological liability over a 34,000+ hectare mining region.
 * **Infrastructure:** GEE API · JAXA ALOS Radar · Sentinel-2 Multispectral · Streamlit
 
 ---
@@ -49,11 +49,13 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 * **Earth Observation:** Sentinel-1 (SAR) · Sentinel-2 · Google Earth Engine
 * **Spatial Engineering:** PostGIS · PostgreSQL · GeoPandas · Rasterio · GDAL · Shapely
 * **Machine Learning & AI:** PyTorch · TorchGeo · scikit-learn · NumPy (Vectorization)
-* **Backend Infrastructure:** FastAPI · Docker · MySQL / PostgreSQL · Failure-Aware Logging
+* **Backend Infrastructure:** FastAPI · Docker · Microservices · PostgreSQL · Failure-Aware Logging
 
 ---
 

@@ -1,11 +1,9 @@
 <div align="center">
 
 # Ranjit Saha
-### Planetary Physician | Spatial Data & Geospatial AI Engineer
+### Geo-Computational Product Engineer | Spatial Data & ML Pipeline Architect
 
-*"The Earth is my Patient. Satellites are my X-Ray. AI is my Diagnosis."*
-
-Building high-performance data infrastructure, multi-sensor integration, and scalable spatial pipelines to combat climate risk and eliminate parametric insurance basis risk.
+*Architecting full-stack spatial intelligence pipelines and deployment-ready machine learning systems to bridge the gap between physical-world anomalies and scalable software.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
@@ -15,31 +13,35 @@ Building high-performance data infrastructure, multi-sensor integration, and sca
 ---
 
 ## 🌍 Engineering Focus
-I specialize in the backend orchestration of Earth Observation and Computer Vision data. My architecture focuses on moving beyond theoretical models into **production-grade, failure-aware pipelines** capable of handling massive telemetry ingestion and translating it into actionable business intelligence.
+I specialize in the backend orchestration of Earth Observation data and the deployment of inference-only machine learning architectures. My work focuses on transitioning theoretical models into **production-grade, failure-aware pipelines** capable of handling massive spatial telemetry and enforcing strict data integrity.
 
 ---
 
 ## 📁 Flagship Projects
 
-### 🚗 [Vehicle Damage Microservice](https://github.com/Ranjit-Saha/vehicle-damage-detection-microservice)
-* **Objective:** Developed a distributed Computer Vision microservice to automate car damage assessment, streamlining insurance claim processing through real-time feature extraction.
-* **Infrastructure:** PyTorch · ResNet50 · FastAPI Asynchronous Engine · Streamlit UI · Docker Containerization · Zero-Disk I/O Streaming
+### 🛰️ [Agri-Sentry-core](https://github.com/Ranjit-Saha/agri-sentry-core)
+* **Architecture:** A climate-resilient spatial backend designed to eliminate "Basis Risk" in parametric insurance by detecting flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
+* **Infrastructure:** PostGIS (RLS & GiST) · Google Earth Engine API · Sentinel-1 SAR · GeoPandas · Vectorized Processing (NumPy)
 
-### 🛰️ [Agri-Sentry](https://github.com/Ranjit-Saha/agri-sentry-core)
-* **Objective:** A climate-resilient spatial backend bridging the $6B parametric insurance trust gap. It utilizes C-Band SAR to detect flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
-* **Infrastructure:** PostGIS · Google Earth Engine API · Sentinel-1 · GeoPandas · Vectorized Processing
+### 🏥 [Health Insurance Cost Predictor](https://github.com/Ranjit-Saha/insurance-premium-predictor-ml)
+* **Architecture:** A deployment-ready regression inference pipeline featuring segmented modeling for different demographics, ensuring strict separation of training and inference workflows to prevent runtime data leakage.
+* **Infrastructure:** Scikit-Learn · Joblib (Serialized Assets) · Streamlit · Python OOP
 
-### 🏔️ [Aravalli Forensic Audit](https://github.com/Ranjit-Saha/aravalli-forensic-audit)
-* **Objective:** Geospatial forensic system built to quantify environmental compliance and ecological liability over a 34,000+ hectare mining region.
-* **Infrastructure:** GEE API · JAXA ALOS Radar · Sentinel-2 Multispectral · Streamlit
+### 🏔️ [Terra-Valuation Engine (Aravalli Audit)](https://github.com/Ranjit-Saha/aravalli-forensic-audit)
+* **Architecture:** Geospatial forensic system built to quantify environmental compliance and ecological liability over a 34,000+ hectare mining region.
+* **Infrastructure:** GEE API · JAXA ALOS Radar · Sentinel-2 Multispectral · Streamlit UI
+
+### 🚗 [Decoupled CV Microservice](https://github.com/Ranjit-Saha/vehicle-damage-detection-microservice)
+* **Architecture:** A distributed Computer Vision microservice for automated vehicle damage assessment, operating with zero-disk I/O to prevent server bottlenecks under concurrent load.
+* **Infrastructure:** PyTorch (ResNet50) · FastAPI Asynchronous Engine · Docker Containerization
 
 ---
 
 ## ⚡ Infrastructure & Pipeline Capabilities
-* **Cloud-Native Ingestion:** Designed API-driven handshakes with Earth Engine and STAC to extract, filter, and process multi-year satellite backscatter histories.
-* **High-Performance Spatial Computations:** Engineered NumPy-vectorized raster processing pipelines to achieve massive execution speedups (e.g., 61x faster than standard iterators).
-* **Secure Spatial Vaults:** Architected idempotent **PostGIS** databases with Row-Level Security (RLS) for multi-tenant data isolation and GiST spatial indexing.
-* **Basis Risk Reduction:** Built automated geometry purification engines (GeoPandas/Shapely) to untangle self-intersecting polygons and apply pixel-pure inner buffers.
+* **Cloud-Native Ingestion:** Designed API-driven handshakes with Google Earth Engine to extract, filter, and process multi-year satellite backscatter histories.
+* **Secure Spatial Vaults:** Architected idempotent **PostGIS** databases with Row-Level Security (RLS) for multi-tenant data isolation and precise 3m inner-core boundary buffering.
+* **Deployment-Oriented ML:** Built segmented regression architectures utilizing serialized machine learning assets (`joblib`) and pre-fitted standard scalers to guarantee inference environment stability.
+* **Compute Efficiency:** Engineered NumPy-vectorized raster processing pipelines to achieve massive execution speedups over standard iterators.
 
 ---
 
@@ -52,10 +54,10 @@ I specialize in the backend orchestration of Earth Observation and Computer Visi
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-* **Earth Observation:** Sentinel-1 (SAR) · Sentinel-2 · Google Earth Engine
+* **Earth Observation:** Sentinel-1 (SAR) · Sentinel-2 · Google Earth Engine API
 * **Spatial Engineering:** PostGIS · PostgreSQL · GeoPandas · Rasterio · GDAL · Shapely
-* **Machine Learning & AI:** PyTorch · TorchGeo · scikit-learn · NumPy (Vectorization)
-* **Backend Infrastructure:** FastAPI · Docker · Microservices · PostgreSQL · Failure-Aware Logging
+* **Machine Learning & AI:** PyTorch · Scikit-Learn · Segmented ML Modeling · NumPy (Vectorization)
+* **Backend Infrastructure:** FastAPI · Docker · Microservices · Joblib Serialization
 
 ---
 

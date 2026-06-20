@@ -5,7 +5,7 @@
 
 *Architecting full-stack spatial intelligence pipelines and deployment-ready machine learning systems to bridge the gap between physical-world anomalies and scalable software.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamranjitsaha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranjitsaha/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
 
 </div>

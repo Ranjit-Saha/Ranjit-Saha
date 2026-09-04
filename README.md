@@ -1,9 +1,9 @@
 <div align="center">
 
 # Ranjit Saha
-### Geo-Computational Product Engineer | Spatial Data & ML Pipeline Architect
+### Spatial AI Engineer | Generative AI & MLOps Pipelines
 
-*Architecting full-stack spatial intelligence pipelines and deployment-ready machine learning systems to bridge the gap between physical-world anomalies and scalable software.*
+*Operating at the precise intersection of planetary-scale geodata (GeoAI) and production-grade software deployment frameworks to bridge physical climate risks with scalable intelligence pipelines.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranjitsaha/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjitofficial.connect@gmail.com)
@@ -12,15 +12,16 @@
 
 ---
 
-## 🌍 Engineering Focus
-I specialize in the backend orchestration of Earth Observation data and the deployment of inference-only machine learning architectures. My work focuses on transitioning theoretical models into **production-grade, failure-aware pipelines** capable of handling massive spatial telemetry and enforcing strict data integrity.
+## 🌍 The Mission & Focus
+Born in Dhaldabri, West Bengal, I watch my family’s farm battle an unpredictable monsoon climate lottery every year—facing destructive flash floods or severe droughts that erase entire seasons of investment. This personal reality drives my professional focus: I don't just write code; I build intelligent, planetary-scale software to decouple heavy vision models into responsive production microservices capable of handling massive spatial telemetry under dynamic climate anomalies.
 
 ---
 
-## 📁 Flagship Projects
+## 📁 Flagship Portfolios & Projects
 
 ### 🛰️ [Agri-Sentry-core](https://github.com/Ranjit-Saha/agri-sentry-core)
 * **Architecture:** A climate-resilient spatial backend designed to eliminate "Basis Risk" in parametric insurance by detecting flood anomalies (-18.0 dB threshold) through heavy monsoon cloud cover.
+* **Agentic Expansion:** Integrating LangChain function-calling agents running on a FastAPI gateway to translate natural regional voice commands (via Bhashini AI & Whisper) into automated PostGIS query strings and catalog routing.
 * **Infrastructure:** PostGIS (RLS & GiST) · Google Earth Engine API · Sentinel-1 SAR · GeoPandas · Vectorized Processing (NumPy)
 
 ### 🏥 [Health Insurance Cost Predictor](https://github.com/Ranjit-Saha/insurance-premium-predictor-ml)
@@ -32,15 +33,15 @@ I specialize in the backend orchestration of Earth Observation data and the depl
 * **Infrastructure:** GEE API · JAXA ALOS Radar · Sentinel-2 Multispectral · Streamlit UI
 
 ### 🚗 [Decoupled CV Microservice](https://github.com/Ranjit-Saha/vehicle-damage-detection-microservice)
-* **Architecture:** A distributed Computer Vision microservice for automated vehicle damage assessment, operating with zero-disk I/O to prevent server bottlenecks under concurrent load.
-* **Infrastructure:** PyTorch (ResNet50) · FastAPI Asynchronous Engine · Docker Containerization
+* **Architecture:** A distributed Computer Vision microservice for automated vehicle damage assessment, operating with zero-disk I/O using PyTorch (ResNet50) and packaged behind an asynchronous FastAPI engine.
+* **MLOps Control:** Maintained system resilience by establishing automated microservice integration testing routines utilizing Pytest framework layers.
 
 ---
 
 ## ⚡ Infrastructure & Pipeline Capabilities
-* **Cloud-Native Ingestion:** Designed API-driven handshakes with Google Earth Engine to extract, filter, and process multi-year satellite backscatter histories.
+* **Agentic Spatial Querying:** Developing autonomous geospatial agents to query the Microsoft Planetary Computer and NASA CMR catalogs using STAC APIs.
 * **Secure Spatial Vaults:** Architected idempotent **PostGIS** databases with Row-Level Security (RLS) for multi-tenant data isolation and precise 3m inner-core boundary buffering.
-* **Deployment-Oriented ML:** Built segmented regression architectures utilizing serialized machine learning assets (`joblib`) and pre-fitted standard scalers to guarantee inference environment stability.
+* **Computer Vision Processing:** Deploying pixel-level Semantic Segmentation loops in PyTorch (utilizing pre-trained Geospatial Foundation Models / GFMs like NASA-IBM’s Prithvi) to trace highly irregular topological boundaries.
 * **Compute Efficiency:** Engineered NumPy-vectorized raster processing pipelines to achieve massive execution speedups over standard iterators.
 
 ---
@@ -54,10 +55,10 @@ I specialize in the backend orchestration of Earth Observation data and the depl
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-* **Earth Observation:** Sentinel-1 (SAR) · Sentinel-2 · Google Earth Engine API
-* **Spatial Engineering:** PostGIS · PostgreSQL · GeoPandas · Rasterio · GDAL · Shapely
-* **Machine Learning & AI:** PyTorch · Scikit-Learn · Segmented ML Modeling · NumPy (Vectorization)
-* **Backend Infrastructure:** FastAPI · Docker · Microservices · Joblib Serialization
+* **Earth Observation:** Sentinel-1 (SAR) · Sentinel-2 · Google Earth Engine API · JAXA ALOS
+* **Spatial Engineering:** PostGIS · PostgreSQL · GeoPandas · Rasterio · GDAL · Xarray · Coordinate Projections
+* **Generative AI & NLP:** LangChain Agentic Frameworks · Voice-Driven Geospatial Queries · Context-Aware RAG · spaCy
+* **Backend Infrastructure & MLOps:** FastAPI · Docker · Zero-Disk I/O Inference · Automated Testing (Pytest)
 
 ---
 
